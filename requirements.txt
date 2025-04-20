@@ -1,0 +1,21 @@
+# Core Deep Learning
+torch
+transformers
+datasets
+accelerate
+sentencepiece
+bitsandbytes
+peft
+
+# Model Evaluation & ML Tools
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+
+# App (optional, for deployment)
+streamlit
+
+# Miscellaneous
+tqdm
