@@ -6,8 +6,6 @@ FINCHAT is a multi-model chatbot that provides personalized financial insights u
 - 🧠 BERT for sentiment-aware responses
 - 🏷️ BERT NER for identifying financial entities
 
-This project was built as part of the EY Data Science Take-Home Challenge.
-
 ---
 
 ## 🔧 Technologies Used
